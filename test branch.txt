@@ -17,3 +17,5 @@ test new branch dev
 
 /*********************/
 Begin the New test again
+
+commit ectype but not commit main , check the result consequence
